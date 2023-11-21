@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7160cf39.css",
+    "main.js": "/static/js/main.a2ec12e8.js",
+    "static/js/787.83f4256b.chunk.js": "/static/js/787.83f4256b.chunk.js",
+    "static/media/taskitlogo.png": "/static/media/taskitlogo.e15e01c580da03265d62.png",
+    "index.html": "/index.html",
+    "main.7160cf39.css.map": "/static/css/main.7160cf39.css.map",
+    "main.a2ec12e8.js.map": "/static/js/main.a2ec12e8.js.map",
+    "787.83f4256b.chunk.js.map": "/static/js/787.83f4256b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7160cf39.css",
+    "static/js/main.a2ec12e8.js"
+  ]
+}
